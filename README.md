@@ -141,8 +141,9 @@ p.note { display: none; }
 <h2><span class="yellow">扇風機を改造したハエを追い払う装置、昔日本でもやってましたね〜</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R5YwrbADrNg?si=tR_hgubv11IcM7Oy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
-<h2><span class="yellow">食べ物以外にも金物屋さん、ちっちゃい女の子用の下着、子供用サンダルなど〜</span></h2>
 <a href="IMG_1657.HIEC" target="_blank"><img src="IMG_1657.heic" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">食べ物以外にも金物屋さん、ちっちゃい女の子用の下着、子供用サンダルなど〜</span></h2>
 <a href="IMG_1658.HIEC" target="_blank"><img src="IMG_1658.heic" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1659.HIEC" target="_blank"><img src="IMG_1659.heic" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1660.HIEC" target="_blank"><img src="IMG_1660.heic" alt="サンプル画像" width="900" /></a>
@@ -150,10 +151,13 @@ p.note { display: none; }
 <a href="IMG_1662.HIEC" target="_blank"><img src="IMG_1662.heic" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1663.HIEC" target="_blank"><img src="IMG_1663.heic" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1664.HIEC" target="_blank"><img src="IMG_1664.heic" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">ミスドもどきは、ほぼ完璧</span></h2>
 <a href="IMG_1665.HIEC" target="_blank"><img src="IMG_1665.heic" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1666.HIEC" target="_blank"><img src="IMG_1666.heic" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1667.HIEC" target="_blank"><img src="IMG_1667.heic" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">市場の上にはお月様〜</span></h2>
 <a href="IMG_1669.HIEC" target="_blank"><img src="IMG_1669.heic" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1670.HIEC" target="_blank"><img src="IMG_1670.heic" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1671.HIEC" target="_blank"><img src="IMG_1671.heic" alt="サンプル画像" width="900" /></a>
@@ -165,11 +169,20 @@ p.note { display: none; }
 
 <a href="IMG_1678.HIEC" target="_blank"><img src="IMG_1678.heic" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1679.HIEC" target="_blank"><img src="IMG_1679.heic" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">日陰の位置がずれたので、傘の位置修正</span></h2>
 <a href="IMG_1680.HIEC" target="_blank"><img src="IMG_1680.heic" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1681.HIEC" target="_blank"><img src="IMG_1681.heic" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1682.HIEC" target="_blank"><img src="IMG_1682.heic" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">合鍵屋さん</span></h2>
 <a href="IMG_1683.HIEC" target="_blank"><img src="IMG_1683.heic" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">バッタモンもあります、「SENKO」などなど</span></h2>
 <a href="IMG_1684.HIEC" target="_blank"><img src="IMG_1684.heic" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">障害者の盲人が歌で寄付を募ってました<br>結構お金集まったようです</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/shorts/ke2JbDRtrso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 
 <br><br>
