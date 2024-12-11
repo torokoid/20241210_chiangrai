@@ -181,7 +181,7 @@ p.note { display: none; }
 <h2><span class="yellow">バッタモンもあります、「SENKO」などなど</span></h2>
 <a href="IMG_1684.HEIC" target="_blank"><img src="IMG_1684.heic" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">障害者の盲人が歌で寄付を募ってました<br>結構お金集まったようです<br>画像のクリックで動画再生します</span></h2>
+<h2><span class="yellow">障害者の盲人が歌で寄付を募ってました<br>お金入れてる人結構いました<br>画像のクリックで動画再生します</span></h2>
 <a href="https://youtube.com/shorts/ke2JbDRtrso" target="_blank"><img src="20241210_002.png" alt="サンプル画像" width="900" /></a>
 
 
