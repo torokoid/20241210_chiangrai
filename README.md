@@ -182,7 +182,7 @@ p.note { display: none; }
 <a href="IMG_1684.HIEC" target="_blank"><img src="IMG_1684.heic" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">障害者の盲人が歌で寄付を募ってました<br>結構お金集まったようです</span></h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/shorts/ke2JbDRtrso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://youtube.com/shorts/ke2JbDRtrso?si=RN_VkdPqDeYeoir5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 
 <br><br>
