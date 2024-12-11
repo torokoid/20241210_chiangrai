@@ -132,8 +132,8 @@ p.note { display: none; }
 <a href="https://www.google.com/maps/place/ตลาดสดเทศบาลจันจว้า/@20.2245961,99.9467936,17.81z/data=!4m6!3m5!1s0x30d65759defafdcd:0xe5ea0075d0313a7e!8m2!3d20.2246319!4d99.9481416!16s%2Fg%2F11twc_trh_!5m1!1e2?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="20241210_001.png" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">チャンチャワー町役場とHonda販売店の隣</span></h2>
-<a href="IMG_1655.HIEC" target="_blank"><img src="IMG_1655.heic" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1656.HIEC" target="_blank"><img src="IMG_1656.heic" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1655.HEIC" target="_blank"><img src="IMG_1655.heic" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1656.HEIC" target="_blank"><img src="IMG_1656.heic" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">鮮魚売り場</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RrGeN9kvZyw?si=p7j8buLTTYryiprG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
@@ -141,48 +141,49 @@ p.note { display: none; }
 <h2><span class="yellow">扇風機を改造したハエを追い払う装置、昔日本でもやってましたね〜</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R5YwrbADrNg?si=tR_hgubv11IcM7Oy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
-<a href="IMG_1657.HIEC" target="_blank"><img src="IMG_1657.heic" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1657.HEIC" target="_blank"><img src="IMG_1657.heic" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">食べ物以外にも金物屋さん、ちっちゃい女の子用の下着、子供用サンダルなど〜</span></h2>
-<a href="IMG_1658.HIEC" target="_blank"><img src="IMG_1658.heic" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1659.HIEC" target="_blank"><img src="IMG_1659.heic" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1660.HIEC" target="_blank"><img src="IMG_1660.heic" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1661.HIEC" target="_blank"><img src="IMG_1661.heic" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1662.HIEC" target="_blank"><img src="IMG_1662.heic" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1663.HIEC" target="_blank"><img src="IMG_1663.heic" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1664.HIEC" target="_blank"><img src="IMG_1664.heic" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1658.HEIC" target="_blank"><img src="IMG_1658.heic" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1659.HEIC" target="_blank"><img src="IMG_1659.heic" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1660.HEIC" target="_blank"><img src="IMG_1660.heic" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1661.HEIC" target="_blank"><img src="IMG_1661.heic" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1662.HEIC" target="_blank"><img src="IMG_1662.heic" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1663.HEIC" target="_blank"><img src="IMG_1663.heic" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1664.HEIC" target="_blank"><img src="IMG_1664.heic" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">ミスドもどきは、ほぼ完璧</span></h2>
-<a href="IMG_1665.HIEC" target="_blank"><img src="IMG_1665.heic" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1666.HIEC" target="_blank"><img src="IMG_1666.heic" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1667.HIEC" target="_blank"><img src="IMG_1667.heic" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1665.HEIC" target="_blank"><img src="IMG_1665.heic" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1666.HEIC" target="_blank"><img src="IMG_1666.heic" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1667.HEIC" target="_blank"><img src="IMG_1667.heic" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">市場の上にはお月様〜</span></h2>
-<a href="IMG_1669.HIEC" target="_blank"><img src="IMG_1669.heic" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1670.HIEC" target="_blank"><img src="IMG_1670.heic" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1671.HIEC" target="_blank"><img src="IMG_1671.heic" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1672.HIEC" target="_blank"><img src="IMG_1672.heic" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1669.HEIC" target="_blank"><img src="IMG_1669.heic" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1670.HEIC" target="_blank"><img src="IMG_1670.heic" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1671.HEIC" target="_blank"><img src="IMG_1671.heic" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1672.HEIC" target="_blank"><img src="IMG_1672.heic" alt="サンプル画像" width="900" /></a>
 
-<a href="IMG_1674.HIEC" target="_blank"><img src="IMG_1674.heic" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1675.HIEC" target="_blank"><img src="IMG_1675.heic" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1676.HIEC" target="_blank"><img src="IMG_1676.heic" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1674.HEIC" target="_blank"><img src="IMG_1674.heic" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1675.HEIC" target="_blank"><img src="IMG_1675.heic" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1676.HEIC" target="_blank"><img src="IMG_1676.heic" alt="サンプル画像" width="900" /></a>
 
-<a href="IMG_1678.HIEC" target="_blank"><img src="IMG_1678.heic" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1679.HIEC" target="_blank"><img src="IMG_1679.heic" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1678.HEIC" target="_blank"><img src="IMG_1678.heic" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1679.HEIC" target="_blank"><img src="IMG_1679.heic" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">日陰の位置がずれたので、傘の位置修正</span></h2>
-<a href="IMG_1680.HIEC" target="_blank"><img src="IMG_1680.heic" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1681.HIEC" target="_blank"><img src="IMG_1681.heic" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1682.HIEC" target="_blank"><img src="IMG_1682.heic" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1680.HEIC" target="_blank"><img src="IMG_1680.heic" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1681.HEIC" target="_blank"><img src="IMG_1681.heic" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1682.HEIC" target="_blank"><img src="IMG_1682.heic" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">合鍵屋さん</span></h2>
-<a href="IMG_1683.HIEC" target="_blank"><img src="IMG_1683.heic" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1683.HEIC" target="_blank"><img src="IMG_1683.heic" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">バッタモンもあります、「SENKO」などなど</span></h2>
-<a href="IMG_1684.HIEC" target="_blank"><img src="IMG_1684.heic" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1684.HEIC" target="_blank"><img src="IMG_1684.heic" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">障害者の盲人が歌で寄付を募ってました<br>結構お金集まったようです</span></h2>
-<iframe width="560" height="315" src="https://youtube.com/shorts/ke2JbDRtrso?si=RN_VkdPqDeYeoir5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+<a href="https://youtube.com/shorts/ke2JbDRtrso" target="_blank"><img src="20241210_002.png" alt="サンプル画像" width="900" /></a>
+
 
 
 <br><br>
