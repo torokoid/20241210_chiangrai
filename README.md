@@ -127,10 +127,18 @@ p.note { display: none; }
 
 <!--ここから下が、本体部分-->
 
-<h2><span class="yellow">12月8日、朝一でトラックの荷台から砂が運び込まれました<br>猫の遊び場になってます</span></h2>
+<h2><span class="yellow">場所はメーチャンから北東に移動した辺り<br>チャンチャワー町役場とHonda販売店の隣<br>画像のクリックでGoogleMapsに飛びます</span></h2>
 
+<a href="https://www.google.com/maps/place/ตลาดสดเทศบาลจันจว้า/@20.2245961,99.9467936,17.81z/data=!4m6!3m5!1s0x30d65759defafdcd:0xe5ea0075d0313a7e!8m2!3d20.2246319!4d99.9481416!16s%2Fg%2F11twc_trh_!5m1!1e2?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="20241210.png" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1655.HIEC" target="_blank"><img src="IMG_1655.heic" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1656.HIEC" target="_blank"><img src="IMG_1656.heic" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">鮮魚売り場</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RrGeN9kvZyw?si=p7j8buLTTYryiprG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<h2><span class="yellow">扇風機を改造したハエを追い払う装置、昔日本でもやってましたね〜</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R5YwrbADrNg?si=tR_hgubv11IcM7Oy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
 <a href="IMG_1657.HIEC" target="_blank"><img src="IMG_1657.heic" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1658.HIEC" target="_blank"><img src="IMG_1658.heic" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1659.HIEC" target="_blank"><img src="IMG_1659.heic" alt="サンプル画像" width="900" /></a>
