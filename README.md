@@ -134,6 +134,7 @@ p.note { display: none; }
 <h2><span class="yellow">チャンチャワー町役場とHonda販売店の隣</span></h2>
 <a href="IMG_1655.HEIC" target="_blank"><img src="IMG_1655.heic" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1656.HEIC" target="_blank"><img src="IMG_1656.heic" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1657.HEIC" target="_blank"><img src="IMG_1657.heic" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">鮮魚売り場</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RrGeN9kvZyw?si=p7j8buLTTYryiprG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
@@ -141,9 +142,9 @@ p.note { display: none; }
 <h2><span class="yellow">扇風機を改造したハエを追い払う装置、昔日本でもやってましたね〜</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R5YwrbADrNg?si=tR_hgubv11IcM7Oy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
-<a href="IMG_1657.HEIC" target="_blank"><img src="IMG_1657.heic" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">食べ物以外にも金物屋さん、ちっちゃい女の子用の下着、子供用サンダルなど〜</span></h2>
+
+<h2><span class="yellow">食べ物以外にも金物屋さん、ちっちゃい女の子用の下着、子供用サンダルなどが売られていました〜</span></h2>
 <a href="IMG_1658.HEIC" target="_blank"><img src="IMG_1658.heic" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1659.HEIC" target="_blank"><img src="IMG_1659.heic" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1660.HEIC" target="_blank"><img src="IMG_1660.heic" alt="サンプル画像" width="900" /></a>
